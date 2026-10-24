@@ -1,0 +1,17 @@
+{
+  "name": "nhom4-auth-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Authentication Practice backend for group 4",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "nodemailer": "^10.2.1"
+  }
+}
